@@ -1,10 +1,10 @@
 # Dijkstra
 Dijkstra Path-finding Visualisation
 
-Dependicies:
+Dependicies :
 pygame
 
-Instructions:
-left click or drag to add walls
-right click or drag to remove walls
-press enter to run simulation
+Instructions :
+left click or drag to add walls.
+right click or drag to remove walls.
+press enter to run simulation.
